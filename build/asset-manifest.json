@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/daily-pooja/static/css/main.073c9b0a.css",
+    "main.js": "/daily-pooja/static/js/main.9b6e77a5.js",
+    "static/js/787.37af23e1.chunk.js": "/daily-pooja/static/js/787.37af23e1.chunk.js",
+    "index.html": "/daily-pooja/index.html",
+    "main.073c9b0a.css.map": "/daily-pooja/static/css/main.073c9b0a.css.map",
+    "main.9b6e77a5.js.map": "/daily-pooja/static/js/main.9b6e77a5.js.map",
+    "787.37af23e1.chunk.js.map": "/daily-pooja/static/js/787.37af23e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9b6e77a5.js"
+  ]
+}
